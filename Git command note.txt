@@ -1,0 +1,30 @@
+GIT / GIT-HUB
+
+stages=>
+untracked
+tracked
+staged
+merge
+
+
+
+commands
+**git config --global => to configure
+** git add (file name) => to add file to tracked.
+** git status =>to check the status of file (you're working on )
+** git commit -m"  "  => to commit tracked file
+** git branch (branch name) => to add edited file part to tracked
+** git checkout (bracnhname) ==> to switched to particular version of the edittings
+** git merge (edittings name) => it add editting branch with master branch
+** git branch -d => to delete
+** git checkout -b ==> to create and switch at the sametime .
+**
+
+PUSH PULL UPDATE IN GITHUB
+** git push => update the remotebrepository from the local repository
+use the **git pull command (
+	**git fetch => work with the status command
+	**git pull => it update the local repository from rremote repository
+)
+** git status => to chrck the status 
+
